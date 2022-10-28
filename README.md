@@ -14,7 +14,7 @@ Mais um desafio concluído com sucesso! Esse é o primeiro desafio do stage 6 - 
 
 Também aprendi a criar um servidor local simples com NodeJs.
 
-Para ver esse projeto funcionando é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer. Ou abrir o terminal e digitar npm start
+Para ver esse projeto funcionando é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer. Ou abrir o terminal e digitar npm start.
 
 
 
