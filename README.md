@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-### Para ver esse projeto funcionando é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer, ou abrir o terminal e digitar npm start.
+### Para ver esse projeto funcionando corretamente é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer, ou abrir o terminal e digitar npm start.
 
 Mais um desafio concluído com sucesso! Esse é o primeiro desafio do stage 6 - trilha Explorer da Rocketseat. Feito totalmente do zero a partir de um layout do figma, nele eu pudi colocar em prática vários novos conceitos adiquiridos no stage 6. Para fazer esse desafio eu usei : 
 
