@@ -12,9 +12,9 @@ Mais um desafio concluído com sucesso! Esse é o primeiro desafio do stage 6 - 
 - Orientação a objetos;
 - Classes e muito mais.
 
-Também aprendi a criar um servidor local simples com NodeJs, para buscar os arquivos do SPA.
+Também aprendi a criar um servidor local simples com NodeJs.
 
-Para ver esse projeto funcionando é preciso fazer o download do código, abrir com o VsCode, abrir o terminal e digitar npm start
+Para ver esse projeto funcionando é preciso fazer o download do código, abrir com o VsCode, e executar o LiveServer. Ou abrir o terminal e digitar npm start
 
 
 
